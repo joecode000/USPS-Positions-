@@ -1,6 +1,6 @@
 # USPS-Positions-
 Positions Held :
-Mail Handler, PSE , Custodian
+Mail Handler, PSE , Custodian(maintenance)
 
 Exam 473:
 Score: 83.90

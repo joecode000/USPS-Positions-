@@ -1,6 +1,6 @@
 # USPS-Positions-
-Positions Held :
-Mail Handler, PSE , Custodian(maintenance)
+Positions Held (each of these positions are a combo of multiple duties & titles to exhaustive to be expressed in a summary) 
+Mail Handler(Operations), PSE(Data Entry) Custodian(maintenance)
 
 Exam 473:
 Score: 83.90

@@ -1,8 +1,8 @@
 # USPS-Positions-
 Positions Held :
 Mail Handler, PSE , Custodian
-Exam 473:
 
+Exam 473:
 Score: 83.90
 Applies to: City Carrier, Rural Carrier, Mail Handler, and Clerk positions (prior to 2019)
 

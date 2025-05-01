@@ -1,5 +1,5 @@
 # USPS-Positions-
-Positions Held (each of these positions are a combo of multiple duties & titles to exhaustive to be expressed in a summary) 
+Positions Held  
 
 
 Exam 473

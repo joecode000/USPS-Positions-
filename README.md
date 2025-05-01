@@ -18,7 +18,6 @@ Exam 916
 Score: 92.80
 Applies to:  Maintenance (Level 4)
 
-https://www.savethepostoffice.com/a-tour-of-the-new-usps-package-sorting-machine/
 
 Duties:
 	•	Operate and monitor automated mail-sorting equipment.
@@ -57,3 +56,5 @@ Work Environment Factors:
 	•       Night shifts, weekends, and holidays.
 	•	Physical labor, exposure to weather, warehouse environments.
 	•	Fast-paced and high-volume workdays.
+
+https://www.savethepostoffice.com/a-tour-of-the-new-usps-package-sorting-machine/
